@@ -28,9 +28,9 @@ deploy in the coming month:
 
 ---
 
-## NOTE TO 2019 LYFT SOFTWARE ENGINEERING APPRENTICESHIP RECRUITER
+##
 
-This web app has been the capstone project of my full-stack education at
+This web app project is an illustration my full-stack education at
 Holberton School and I want to show it off as a demonstration of all the
 skills I've learned at this school.
 
